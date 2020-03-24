@@ -1,0 +1,13 @@
+body {
+    background-color: orangered;
+}
+li {
+    display: inline;
+}
+a {
+    text-decoration: none;
+}
+img {
+    width: 20rem;
+    height : 20rem
+}
