@@ -1,6 +1,6 @@
 const students = [
     {   
-        id : 1,
+        
         firstName : 'Mangalam',
         lastName :  'Krishnan',
         age : 25,
@@ -8,7 +8,7 @@ const students = [
         skills : ['HTML','CSS','JS']
     },
     {   
-        id : 2, 
+        
         firstName : 'Sharanya',
         lastName :  'Sanjay',
         age : 20,
@@ -16,14 +16,14 @@ const students = [
         skills : ['React','Redux','Node']
     },
     {   
-        id : 3,
+        
         firstName : 'Shwetha',
         lastName :  'Sanjay',
         age : 7,
         country : 'Sweden',
         skills : ['Mongo','SQL','Node']
     },
-    {   id : 4,
+    {   
         firstName : 'Sanjay',
         lastName :  'Jayaraman',
         age : 35,
